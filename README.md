@@ -4,23 +4,23 @@ Issues 2
 
 User Stories
 
-I want to be able to create a post and have it on my profile and on the homepage
+<u>I want to be able to create a post and have it on my profile and on the homepage</u>
 
 =>profile => new post button => form submit
 
-I want to be able to save my posts
+<u>I want to be able to save my posts</u>
 => profile => saved posts
 
-I want to be able to edit and delete my posts
+<u>I want to be able to edit and delete my posts</u>
 
 
-I want to be able to search posts
+<u>I want to be able to search posts</u>
 
 
-Posts should have tags, website should display posts with that tag
+<u>Posts should have tags, website should display posts with that tag</u>
 
 
-I want to be able to post images 
+<u>I want to be able to post images </u>
 
 
 
